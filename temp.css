@@ -121,6 +121,7 @@ box-sizing: border-box;
     position: absolute;
     top: 0;
     right: 0;
+    margin-right:5%;
   }
   .links{float: none;}
   .links.resposive a{
