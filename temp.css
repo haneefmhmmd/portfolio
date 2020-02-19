@@ -113,7 +113,7 @@ box-sizing: border-box;
 }
 @media screen and (max-width:700px){
   .links a{display: none;}
-  .links a.icon{display: inline-block;float: right;}
+  .links a.icon{display: inline-block;float: right;padding-right: 0%;margin: 0;}
 }
 @media screen and (max-width:700px){
   .links.resposive{position: relative;}
@@ -149,7 +149,7 @@ box-sizing: border-box;
   .row1 .logo,.row2 .logo{
     width: 100%;
     padding: 0px;
-    margin: 0;
+    margin: 0 auto;
 }
 .leftContent,.rightContent{
   width: 100%;
